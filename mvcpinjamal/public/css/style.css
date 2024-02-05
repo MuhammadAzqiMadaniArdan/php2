@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.jumbotron {
+    background-image: linear-gradient(aqua,white)!important;
+}
